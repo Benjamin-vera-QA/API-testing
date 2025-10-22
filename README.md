@@ -68,6 +68,8 @@ Base URL: https://api.myproject.demo
 ```bash
 newman run collections/api_kits_collection.json -e environments/api_environment.json
 
+```
+
 🧠 Validaciones Incluidas
 
 Código de estado HTTP (status code).
