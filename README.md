@@ -61,7 +61,7 @@ Verificar que el endpoint **`POST /api/v1/kits/:id/products`** funcione correcta
 ### 🔹 Desde Postman
 1. Importa la colección `api_kits_collection.json`.  
 2. Configura el entorno con la variable:
-base_url = https://api.example.com
+Base URL: https://api.myproject.demo
 3. Ejecuta los requests manualmente o desde **Runner**.
 
 ### 🔹 Desde la Terminal (con Newman)
