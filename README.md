@@ -85,6 +85,7 @@ Pruebas negativas con datos incorrectos.
 Benjamín Vera
 QA Engineer Jr
 📍 Chile
+
 🔗 LinkedIn 
 www.linkedin.com/in/benjamin-vera-qa
 
