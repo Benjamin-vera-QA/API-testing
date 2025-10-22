@@ -70,7 +70,7 @@ newman run collections/api_kits_collection.json -e environments/api_environment.
 
 ```
 
-🧠 Validaciones Incluidas
+## 🧠 Validaciones Incluidas
 
 Código de estado HTTP (status code).
 
@@ -80,11 +80,12 @@ Manejo de errores para valores inválidos.
 
 Pruebas negativas con datos incorrectos.
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Benjamín Vera
 QA Engineer Jr
 📍 Chile
-🔗 LinkedIn
-
+🔗 LinkedIn 
+www.linkedin.com/in/benjamin-vera-qa
 💻 GitHub
+https://github.com/Benjamin-vera-QA
