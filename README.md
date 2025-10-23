@@ -62,7 +62,9 @@ Verificar que el endpoint **`POST /api/v1/kits/:id/products`** funcione correcta
 1. Importa la colección `api_kits_collection.json`.  
 2. Configura el entorno con la variable:
 Base URL: https://api.myproject.demo
-3. Ejecuta los requests manualmente o desde **Runner**.
+> Nota: Por motivos de privacidad, esta URL es un ejemplo.  
+> En el entorno de pruebas real se utilizó una API REST educativa.
+4. Ejecuta los requests manualmente o desde **Runner**.
 
 ### 🔹 Desde la Terminal (con Newman)
 ```bash
